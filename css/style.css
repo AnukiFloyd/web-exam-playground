@@ -12,3 +12,7 @@ table td, table th {
 table th {
 	background-color:#eee;
 }
+.preview {
+	width:100%;
+	max-width:700px;
+}
